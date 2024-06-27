@@ -1,0 +1,11 @@
+{
+	"autoload": {
+		"psr-4": {
+			"Mvc\\": "src/"
+		}
+	},
+	"require": {
+        "phpoffice/phpword": "dev-master",
+		"dompdf/dompdf": "^2.0"
+    }
+}
